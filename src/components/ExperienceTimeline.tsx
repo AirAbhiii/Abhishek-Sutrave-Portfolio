@@ -84,7 +84,7 @@ export default function ExperienceTimeline() {
                           {exp.role}
                         </span>
                         <span className="px-2.5 py-0.5 text-[9px] font-mono font-bold bg-emerald-55/10 text-emerald-500 border border-emerald-500/15 rounded-full uppercase">
-                          Latest Role
+                          Role
                         </span>
                       </div>
                       
