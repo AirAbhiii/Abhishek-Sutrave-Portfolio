@@ -16,7 +16,7 @@ export default function Achievements() {
             <div className="inline-flex items-center space-x-2 border border-blue-500/20 bg-blue-50/30 dark:bg-blue-950/20 px-3 py-1 rounded-full mb-3">
               <Trophy className="w-3.5 h-3.5 text-amber-500" />
               <span className="text-[10px] font-mono tracking-widest text-slate-500 dark:text-blue-300 font-bold uppercase">
-                HONORS_AND_AWARDS
+                HONORS
               </span>
             </div>
             <h2 className="text-3xl sm:text-4xl font-sans font-extrabold tracking-tight text-slate-900 dark:text-white">
