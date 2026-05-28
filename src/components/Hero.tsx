@@ -159,7 +159,7 @@ export default function Hero({ scrollToSection, openInteractiveResume }: HeroPro
               </div>
               
               <div className="text-[10px] text-slate-400 dark:text-slate-500 border-l border-emerald-500/30 pl-3">
-                [SYSTEM DETECTED: PUNE, INDIA]
+                [SYSTEM DETECTED: NAVI MUMBAI, INDIA]
                 <br />[CONTACT: <span className="underline select-all text-slate-500 dark:text-slate-400">{resumeData.basics.email}</span>]
                 <br />[PHONE: <span className="select-all text-slate-500 dark:text-slate-400">{resumeData.basics.phone}</span>]
               </div>
