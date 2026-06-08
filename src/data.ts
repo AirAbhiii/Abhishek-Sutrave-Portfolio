@@ -45,7 +45,7 @@ export interface ResumeData {
 export const resumeData: ResumeData = {
   basics: {
     name: "Abhishek Sutrave",
-    title: "DevOps & AI Engineer",
+    title: "Aspiring DevOps & AI Engineer",
     summary: "As an aspiring DevOps practitioner and  AI Engineer, I specialize in building decentralized platforms, deep learning vision models, and responsive web ecosystems. Deeply focused on solidifying modern cloud, containerization, and automated CI/CD workflows, I bridge the gap between high-performance machine learning execution and scalable backend systems.",
     location: "Pune, India",
     email: "abhisheksutravel824@gmail.com",
