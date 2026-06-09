@@ -61,7 +61,7 @@ export default function Navbar({
                 Abhishek Sutrave
               </span>
               <span className="block text-[9px] font-mono text-slate-500 dark:text-blue-400 font-bold uppercase tracking-widest leading-none">
-                DevOps & AI Architect 
+               Aspiring DevOps & AI Engineer 
               </span>
             </div>
           </button>
