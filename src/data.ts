@@ -51,7 +51,7 @@ export const resumeData: ResumeData = {
     email: "abhisheksutravel824@gmail.com",
     phone: "+91-9604476051",
     links: {
-      linkedin: "https://www.linkedin.com/in/abhishek-sutrave-662a853bb",
+      linkedin: "https://www.linkedin.com/in/abhishek-sutrave-662a853bb?utm_source=share_via&utm_content=profile&utm_medium=member_android",
       github:"https://github.com/AirAbhiii",
       leetcode: "https://leetcode.com/u/Abhisheksutrave__/"
     }
